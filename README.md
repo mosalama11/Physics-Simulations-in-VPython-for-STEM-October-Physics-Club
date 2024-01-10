@@ -1,5 +1,7 @@
 # Physics-Simulations-in-VPython-for-STEM-October-Physics-Club
-## **Physics Simulations in VPython for STEM October Physics Club Course**
+### **Physics Simulations in VPython for STEM October Physics Club Course**
+
+These are seven physical phenomenon's and laws simulation using VPython, Which is a language for 3d simulation putting in consideration all the physical and mathemetical quantities and varaibles. This project include simulations for Kepler-62 planetary System, Coloumb Law, interference of waves, Hook's Law and more. **To run these simulation, click on the links below.** For the source code click on "Veiw this program" in the simulation page.
 
 Kepler-62 System Simulation:
 
