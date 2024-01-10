@@ -1,5 +1,5 @@
 # Physics-Simulations-in-VPython-for-STEM-October-Physics-Club
-Physics Simulations in VPython for STEM October Physics Club Course
+## **Physics Simulations in VPython for STEM October Physics Club Course**
 
 Kepler-62 System Simulation:
 
